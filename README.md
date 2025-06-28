@@ -100,9 +100,9 @@ This application follows a **feature-first** and **clean architecture** pattern 
 
 ### 4.2 Clone the Repository
 
-```bash
 git clone <repository_url>
 cd <project_directory>
+
 ### 4.3 Install Dependencies
 flutter pub get
 
