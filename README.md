@@ -19,7 +19,7 @@ A robust and internationalized mobile application for managing work orders, sche
   - [3.5 Local Data Persistence (Hive)](#35-local-data-persistence-hive)
   - [3.6 Internationalization (easy_localization)](#36-internationalization-easy_localization)
 - [4. Setup Instructions](#4-setup-instructions)
-- [5. Screen-Recorded Demo](#6-screen-recorded-demo)
+- [5. Screen-Recorded Demo](#5-screen-recorded-demo)
 
 ---
 
