@@ -117,5 +117,5 @@ flutter run
 📺 Watch Demo Video
 Click here to watch the demo
 
-[[[![Watch the demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)](https://github.com/user-attachments/assets/52ec9925-99f5-46e6-b2fd-60d04db50fc7)](https://github.com/user-attachments/assets/52ec9925-99f5-46e6-b2fd-60d04db50fc7)
+https://github.com/user-attachments/assets/52ec9925-99f5-46e6-b2fd-60d04db50fc7
 
