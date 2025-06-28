@@ -1,0 +1,98 @@
+{
+  "greeting": {
+    "morning": "Good morning,",
+    "afternoon": "Good afternoon,",
+    "evening": "Good evening,"
+  },
+  "work_orders_title": "Work Orders",
+  "work_orders_count": "Showing {count} work orders",
+  "search_hint": "Search work orders...",
+  "filter_button": "Filter",
+  "calendar_button": "Weekly Calendar",
+  "filter_sheet_title": "Filter Work Orders",
+  "apply_filters_button": "Apply Filters",
+  "no_work_orders_found": "No work orders found.",
+  "failed_to_load": "Failed to load work orders.",
+  "retry_button": "Retry",
+  "select_date_range_hint": "Select Date Range",
+  "work_order_card": {
+    "status": {
+      "open": "Open",
+      "in_progress": "In Progress",
+      "closed": "Closed"
+    },
+    "priority": {
+      "high": "High Priority",
+      "normal": "Normal Priority",
+      "low": "Low Priority"
+    },
+    "progress": {
+      "completed": "{percentage}% Completed",
+      "in_progress": "{percentage}% Progress",
+      "not_started": "{percentage}% Progress"
+    },
+    "details": {
+      "created_at": "Created: {date}",
+      "assigned_to": "Assigned to: {technician}"
+    },
+    "remove_button": "Remove",
+    "snack_bar": {
+      "tapped_on": "Tapped on {title}",
+      "removed_successfully": "Work order #{id} removed successfully"
+    }
+  },
+  "filter_section": {
+    "status_title": "Status",
+    "status_subtitle": "Select work order status",
+    "technician_title": "Technician",
+    "technician_subtitle": "Assign to a technician",
+    "date_range_title": "Date Range",
+    "date_range_subtitle": "Filter by a custom date range",
+    "select_date_range_button": "Select Date Range",
+    "clear_filters_button": "Clear all filters"
+  },
+  "weekly_calendar": {
+    "schedule_title": "Weekly Schedule",
+    "jump_to_today_tooltip": "Jump to today",
+    "event_details": {
+      "task_label": "Task:",
+      "technician_label": "Technician:",
+      "time_label": "Time:"
+    },
+    "no_tasks_scheduled": "No tasks scheduled for this day!",
+    "failed_to_load_events": "Failed to load events.",
+    "retry_button": "Retry"
+  },
+  "create_work_order": {
+    "app_bar_title": "🛠️ Create Work Order",
+    "section_work_details": "Work Details",
+    "section_meta_info": "Meta Info",
+    "section_technician_schedule": "Technician & Schedule",
+    "label_title": "Title",
+    "label_description": "Description",
+    "label_category": "Category",
+    "label_priority": "Priority",
+    "label_date": "Date",
+    "label_technician": "Technician",
+    "validator_required": "{field} is required",
+    "snackbar_success": "✅ Work Order Created",
+    "snackbar_complete_fields": "⚠️ Please complete all fields",
+    "button_pick_slot": "Pick Time Slot",
+    "button_slot_label": "Slot: {slot_label} ({date})",
+    "date_picker_placeholder": "Select a date",
+    "button_save": "Save Work Order",
+    "button_submitting": "Submitting...",
+    "category": {
+      "plumbing": "Plumbing",
+      "electrical": "Electrical",
+      "hvac": "HVAC"
+    }
+  },
+  "schedule_picker": {
+    "header_title": "Select Slot",
+    "loading_message": "Fetching available slots...",
+    "no_slots_available": "No time slots available for this technician.",
+    "slot_duration": "Duration: 30 minutes",
+    "assign_button": "Assign Slot"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "greeting": {
+    "morning": "صباح الخير،",
+    "afternoon": "مساء الخير،",
+    "evening": "مساء الخير،"
+  },
+  "work_orders_title": "أوامر العمل",
+  "work_orders_count": "يتم عرض {count} من أوامر العمل",
+  "search_hint": "ابحث عن أوامر العمل...",
+  "filter_button": "تصفية",
+  "calendar_button": "التقويم الأسبوعي",
+  "filter_sheet_title": "تصفية أوامر العمل",
+  "apply_filters_button": "تطبيق الفلاتر",
+  "no_work_orders_found": "لم يتم العثور على أوامر عمل.",
+  "failed_to_load": "فشل تحميل أوامر العمل.",
+  "retry_button": "إعادة المحاولة",
+  "select_date_range_hint": "حدد نطاق التاريخ",
+  "work_order_card": {
+    "status": {
+      "open": "مفتوح",
+      "in_progress": "قيد التنفيذ",
+      "closed": "مغلق"
+    },
+    "priority": {
+      "high": "أولوية عالية",
+      "normal": "أولوية عادية",
+      "low": "أولوية منخفضة"
+    },
+    "progress": {
+      "completed": "{percentage}% مكتمل",
+      "in_progress": "{percentage}% تقدم",
+      "not_started": "{percentage}% تقدم"
+    },
+    "details": {
+      "created_at": "تم الإنشاء: {date}",
+      "assigned_to": "المسند إلى: {technician}"
+    },
+    "remove_button": "إزالة",
+    "snack_bar": {
+      "tapped_on": "تم النقر على {title}",
+      "removed_successfully": "تمت إزالة أمر العمل #{id} بنجاح"
+    }
+  },
+  "filter_section": {
+    "status_title": "الحالة",
+    "status_subtitle": "حدد حالة أمر العمل",
+    "technician_title": "فني",
+    "technician_subtitle": "تعيين إلى فني",
+    "date_range_title": "نطاق التاريخ",
+    "date_range_subtitle": "تصفية حسب نطاق تاريخ مخصص",
+    "select_date_range_button": "حدد نطاق التاريخ",
+    "clear_filters_button": "مسح جميع الفلاتر"
+  },
+  "weekly_calendar": {
+    "schedule_title": "الجدول الأسبوعي",
+    "jump_to_today_tooltip": "انتقل إلى اليوم",
+    "event_details": {
+      "task_label": "المهمة:",
+      "technician_label": "الفني:",
+      "time_label": "الوقت:"
+    },
+    "no_tasks_scheduled": "لا توجد مهام مجدولة لهذا اليوم!",
+    "failed_to_load_events": "فشل تحميل الأحداث.",
+    "retry_button": "إعادة المحاولة"
+  },
+  "create_work_order": {
+    "app_bar_title": "🛠️ إنشاء أمر عمل",
+    "section_work_details": "تفاصيل العمل",
+    "section_meta_info": "معلومات إضافية",
+    "section_technician_schedule": "الفني والجدول الزمني",
+    "label_title": "العنوان",
+    "label_description": "الوصف",
+    "label_category": "الفئة",
+    "label_priority": "الأولوية",
+    "label_date": "التاريخ",
+    "label_technician": "الفني",
+    "validator_required": "{field} مطلوب",
+    "snackbar_success": "✅ تم إنشاء أمر العمل",
+    "snackbar_complete_fields": "⚠️ يرجى إكمال جميع الحقول",
+    "button_pick_slot": "اختر موعدًا",
+    "button_slot_label": "الموعد: {slot_label} ({date})",
+    "date_picker_placeholder": "حدد تاريخًا",
+    "button_save": "حفظ أمر العمل",
+    "button_submitting": "جاري الإرسال...",
+    "category": {
+      "plumbing": "سباكة",
+      "electrical": "كهرباء",
+      "hvac": "تدفئة وتبريد"
+    }
+  },
+  "schedule_picker": {
+    "header_title": "اختيار وقت",
+    "loading_message": "جاري جلب الأوقات المتاحة...",
+    "no_slots_available": "لا توجد أوقات متاحة لهذا الفني.",
+    "slot_duration": "المدة: 30 دقيقة",
+    "assign_button": "تعيين الوقت"
+  }
+}
