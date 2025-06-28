@@ -19,6 +19,7 @@ A robust and internationalized mobile application for managing work orders, sche
   - [3.5 Local Data Persistence (Hive)](#35-local-data-persistence-hive)
   - [3.6 Internationalization (easy_localization)](#36-internationalization-easy_localization)
 - [4. Setup Instructions](#4-setup-instructions)
+- [5. Screen-Recorded Demo](#6-screen-recorded-demo)
 
 ---
 
@@ -117,7 +118,9 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 flutter run
 
 
+## 6. Screen-Recorded Demo
 
+📺 Watch Demo Video
 
 https://github.com/user-attachments/assets/52ec9925-99f5-46e6-b2fd-60d04db50fc7
 
