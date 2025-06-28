@@ -108,8 +108,16 @@ flutter pub get
 
 
 ### 4.4 Generate Hive Adapters
+
+
 flutter packages pub run build_runner build --delete-conflicting-outputs
 🔁 Re-run this whenever you change Hive models.
 
 ### 4.5 Run the Application
 flutter run
+
+
+
+
+https://github.com/user-attachments/assets/52ec9925-99f5-46e6-b2fd-60d04db50fc7
+
