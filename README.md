@@ -118,7 +118,7 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 flutter run
 
 
-## 6. Screen-Recorded Demo
+## 5. Screen-Recorded Demo
 
 📺 Watch Demo Video
 
