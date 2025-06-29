@@ -20,6 +20,7 @@ A robust and internationalized mobile application for managing work orders, sche
   - [3.6 Internationalization (easy_localization)](#36-internationalization-easy_localization)
 - [4. Setup Instructions](#4-setup-instructions)
 - [5. Screen-Recorded Demo](#5-screen-recorded-demo)
+- [6. Documentaton]
 
 ---
 
@@ -118,4 +119,10 @@ flutter run
 Click here to watch the demo
 
 https://github.com/user-attachments/assets/52ec9925-99f5-46e6-b2fd-60d04db50fc7
+
+
+## 6. Documentation 
+
+[Assignment Documentation.pdf](https://github.com/user-attachments/files/20966989/Assignment.Documentation.pdf)
+
 
