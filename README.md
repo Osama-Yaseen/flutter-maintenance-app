@@ -20,7 +20,7 @@ A robust and internationalized mobile application for managing work orders, sche
   - [3.6 Internationalization (easy_localization)](#36-internationalization-easy_localization)
 - [4. Setup Instructions](#4-setup-instructions)
 - [5. Screen-Recorded Demo](#5-screen-recorded-demo)
-- [6. Documentaton]
+- [6. Documentaton] (#6-documentation)
 
 ---
 
